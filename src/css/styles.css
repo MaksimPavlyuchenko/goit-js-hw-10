@@ -28,3 +28,22 @@ body {
   font-size: 16px;
   font-weight: 500;
 }
+.country-info>p{
+  font:inherit;
+  font-size: 18px;
+  font-weight: 500;
+}
+.country-info>div{
+  display: flex;
+  gap: 20px;
+  font:inherit;
+  font-size: 24px;
+  font-weight: 700;
+
+}
+.country-info>div>img{
+  width: 90px;
+  height: auto;
+}
+
+
